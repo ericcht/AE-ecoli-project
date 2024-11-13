@@ -2,16 +2,6 @@
 
 This project implements an **Autoencoder (AE)** model to analyze and compress **E. Coli** data. The Autoencoder aims to learn an efficient representation (encoding) of the input data, enabling applications such as data compression, anomaly detection, and dimensionality reduction. 
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Installation](#installation)
-- [File Structure](#file-structure)
-- [Usage](#usage)
-- [Training](#training)
-- [Results](#results)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 The goal of this project is to implement an Autoencoder model that can:
